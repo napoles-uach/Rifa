@@ -28,4 +28,19 @@ Características
 
 * Pantalla 10.1´´ IPS
 * Resolución 1280 x 800
+* Cámara Trasera + Frontal
+* Quadcore 1.5 GHz
+* Memoria RAM 2 GB
+* Almacenamiento interno 32 GB
+* Ranura Tarjeta TF 32 GB (No inc.)
+* Conexión WiFi y BT
+* Entrada USB
+* Entrada 3.5 mm
+* Android 10.1
+* Batería 4000 mAh
+
+Contenido
+* 1 Tablet 10.1´´
+* 1 Teclado inalámbrico
+* Manual de Usuario
 ''')

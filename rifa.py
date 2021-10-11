@@ -26,6 +26,6 @@ st.sidebar.image('tablet.png')
 st.sidebar.markdown('''
 Características
 
-* Pantalla 10.1 IPS
+* Pantalla 10.1´´ IPS
 * Resolución 1280 x 800
 ''')

@@ -6,7 +6,7 @@ st.markdown('## Premio: Una Tablet con Teclado 💻 (con valor de $3000)')
 st.markdown('## Valor del Boleto: $50')
 st.markdown('Ganador: Últimas 2 cifras del Primer Lugar de la Lotería Nacional del 31 de Octubre 2021.')
 
-st.sidebar.image('tablet.png')
+
 df = pd.read_csv('https://raw.githubusercontent.com/napoles-uach/Rifa/main/Rifa_Halloween_boletos.csv')
 # Put your Python+Streamlit code here ...
 # you can modify it by double cliking on the folder icon at the left
@@ -19,3 +19,13 @@ boton=st.button(str(numb))
 
 if boton:
   st.balloons()
+
+
+
+st.sidebar.image('tablet.png')
+st.sidebar.markdown('''
+Características
+
+* Pantalla 10.1 IPS
+* Resolución 1280 x 800
+''')

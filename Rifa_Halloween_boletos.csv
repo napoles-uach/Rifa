@@ -1,46 +1,46 @@
 Num,Nombre,Dirección,Telefono,ocupado,Pagado
 00,Humberto López,,,1,1
 01,Humberto López,,,1,1
-02,Fernanda Soto,,,1,
+02,Fernanda Soto,,,1,1
 03,Josefina Duarte,,,1,1
 04,José Manuel Nápoles,,,1,1
-05,Gabriel Molina,,,1,
+05,Gabriel Molina,,,1,0
 06,Rocío Riestra,,,1,1
-07,Ana Luisa Arroyo,,,1,
-08,Andrea Froese,,,1,
-09,Mario Gonzalez,,,1,
+07,Ana Luisa Arroyo,,,1,0
+08,Andrea Froese,,,1,0
+09,Mario Gonzalez,,,1,0
 10,Ma. Magdalena Riestra,,,1,1
-11,Luisa Losoya,,,1,
+11,Luisa Losoya,,,1,0
 12,Claudia D.,,,1,1
-13,Veronica Escobedo,,,1,
-14,Nora Aydeé Sanchez B,,,1,
-15,Marco Antonio Chavez Rojo,,,1,
+13,Veronica Escobedo,,,1,0
+14,Nora Aydeé Sanchez B,,,1,1
+15,Marco Antonio Chavez Rojo,,,1,1
 16,Alejandro Banda Delgado,,,1,1
-17,Viekin Cinco Mtz.,,,1,
-18,Emanuel Duarte Felix,,,1,
-19,Jacinto Nájeras S.,,,1,
+17,Viekin Cinco Mtz.,,,1,1
+18,Emanuel Duarte Felix,,,1,1
+19,Jacinto Nájeras S.,,,1,0
 20,Pedro Palomares B.,,,1,1
-21,Linda Landeros,,,1,
-22,Reyna Liseth Torres Ponce,,,1,
-23,Reyna Sarrapy,,,1,
-24,Emanuel Duarte Felix,,,1,
-25,Jorge Carlos Muñoz,,,1,
-26,Carlos Armando de la Vega Cobos,,,1,
+21,Linda Landeros,,,1,1
+22,Reyna Liseth Torres Ponce,,,1,1
+23,Reyna Sarrapy,,,1,1
+24,Emanuel Duarte Felix,,,1,1
+25,Jorge Carlos Muñoz,,,1,1
+26,Carlos Armando de la Vega Cobos,,,1,1
 27,Carlos Chacón Fierro,,,1,1
 28,Angelo Minichiello,,,1,1
 29,,,,0,
 30,Alejandra Ivonne Cruz Rascon,,,1,1
-31,Angélica Rubalcava,,,1,
-32,Liliana Estrada A.,,,1,
-33,Jorge Carlos Muñoz,,,1,
-34,Carlos Armando de la Vega Cobos,,,1,
+31,Angélica Rubalcava,,,1,1
+32,Liliana Estrada A.,,,1,0
+33,Jorge Carlos Muñoz,,,1,1
+34,Carlos Armando de la Vega Cobos,,,1,1
 35,,,,0,
 36,Ma. del Carmen Molina,,,1,1
-37,Rosalva Rosas,,,1,
-38,Anaeli Duarte Felix,,,1,
+37,Rosalva Rosas,,,1,0
+38,Anaeli Duarte Felix,,,1,1
 39,Teresa de Martinez,,,1,1
 40,Jacobo Ordoñez,,,1,1
-41,Ma. del Pilar Monsivais Alonso,,,1,
+41,Ma. del Pilar Monsivais Alonso,,,1,1
 42,Edith Rodríguez,,,1,1
 43,,,,0,
 44,Humberto López,,,1,1
@@ -93,7 +93,7 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 91,Juan Miguel Duarte Tagle,,,1,1
 92,,,,0,
 93,Cosme Martinez,,,1,1
-94,Anaeli Duarte Felix,,,1,
+94,Anaeli Duarte Felix,,,1,1
 95,Janett Rocio Saenz,,,1,1
 96,Luz María Rodriguez Valdez,,,1,1
 97,,,,0,

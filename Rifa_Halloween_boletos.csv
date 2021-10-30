@@ -28,13 +28,13 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 26,Carlos Armando de la Vega Cobos,,,1,1
 27,Carlos Chacón Fierro,,,1,1
 28,Angelo Minichiello,,,1,1
-29,,,,0,
+29,cacho,,,1,
 30,Alejandra Ivonne Cruz Rascon,,,1,1
 31,Angélica Rubalcava,,,1,1
 32,Liliana Estrada A.,,,1,0
 33,Jorge Carlos Muñoz,,,1,1
 34,Carlos Armando de la Vega Cobos,,,1,1
-35,,,,0,
+35,cacho,,,1,
 36,Ma. del Carmen Molina,,,1,1
 37,Rosalva Rosas,,,1,0
 38,Anaeli Duarte Felix,,,1,1
@@ -46,7 +46,7 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 44,Humberto López,,,1,1
 45,Cosme Martinez,,,1,1
 46,,,,0,
-47,,,,0,
+47,cacho,,,1,
 48,Ana Cecilia Arizpuro Duarte,,,1,1
 49,Reyna Sarrapy,,,1,1
 50,,,,0,
@@ -57,14 +57,14 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 55,,,,0,
 56,,,,0,
 57,Carlos Armando de la Vega Cobos,,,1,1
-58,,,,0,
+58,cacho,,,1,
 59,,,,0,
 60,Luz María Rodriguez Valdez,,,1,1
 61,,,,0,
 62,Gerardo Salazar,,,1,1
 63,Teresa R. de Martinez,,,1,1
-64,,,,0,
-65,,,,0,
+64,cacho,,,1,
+65,cacho,,,1,
 66,Ma. del Pilar Monsivais Alonso,,,1,1
 67,Carlos Armando de la Vega Cobos,,,1,1
 68,,,,0,
@@ -78,16 +78,16 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 76,Ana Cecilia Arispuro Duarte,,,1,1
 77,Gisseh Talía Nápoles,,,1,1
 78,,,,0,
-79,,,,0,
+79,cacho,,,1,
 80,Luz María Rodriguez Valdez,,,1,1
 81,,,,0,
 82,,,,0,
 83,Adriana Duarte Tagle,,,1,1
 84,Luz María Rodriguez Valdez,,,1,1
 85,,,,0,
-86,,,,0,
+86,,,,,
 87,Gisseh T. Nápoles Arispuro,,,1,1
-88,,,,0,
+88,cacho,,,1,
 89,Brenda Romero,,,1,1
 90,,,,0,
 91,Juan Miguel Duarte Tagle,,,1,1
@@ -96,6 +96,6 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 94,Anaeli Duarte Felix,,,1,1
 95,Janett Rocio Saenz,,,1,1
 96,Luz María Rodriguez Valdez,,,1,1
-97,,,,0,
+97,cacho,,,1,
 98,Adriana Duarte Tagle,,,1,1
 99,Humberto López,,,1,1

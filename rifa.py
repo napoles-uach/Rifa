@@ -20,7 +20,7 @@ boton=st.button(str(numb))
 if boton:
   st.balloons()
 
-st.write(disponible)
+st.write(disponible['Num'])
 
 st.sidebar.image('tablet.png')
 st.sidebar.markdown('''

@@ -13,12 +13,12 @@ df = pd.read_csv('https://raw.githubusercontent.com/napoles-uach/Rifa/main/Rifa_
 #st.dataframe(df)
 disponible=df[df['ocupado']==0]
 
-numb=st.selectbox('Terminaciones disponibles',disponible)
+#numb=st.selectbox('Terminaciones disponibles',disponible)
 
-boton=st.button(str(numb))
+#boton=st.button(str(numb))
 
-if boton:
-  st.balloons()
+#if boton:
+#  st.balloons()
 
 st.write(disponible['Num'])
 

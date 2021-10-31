@@ -81,11 +81,11 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 79,cacho,,,1,1
 80,Luz María Rodriguez Valdez,,,1,1
 81,Jeovana,,,1,1
-82,Mendoza,,,1,
+82,,,,0,
 83,Adriana Duarte Tagle,,,1,1
 84,Luz María Rodriguez Valdez,,,1,1
 85,Cosme Damian Martinez,,,1,
-86,,,,0,
+86,Mendoza,,,1,
 87,Gisseh T. Nápoles Arispuro,,,1,1
 88,cacho,,,1,
 89,Brenda Romero,,,1,1

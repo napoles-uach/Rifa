@@ -8,7 +8,7 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 06,Rocío Riestra,,,1,1
 07,Ana Luisa Arroyo,,,1,0
 08,Andrea Froese,,,1,0
-09,Mario Gonzalez,,,1,0
+09,,,,,0
 10,Ma. Magdalena Riestra,,,1,1
 11,Luisa Losoya,,,1,0
 12,Claudia D.,,,1,1
@@ -51,7 +51,7 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 49,Reyna Sarrapy,,,1,1
 50,Juan Carlos Arvizu,,,1,1
 51,Lydia Noriega Almeida,,,1,1
-52,,,,0,
+52,Cobos,,,1,
 53,Ana Avila Liga Astro,,,1,
 54,Toño UACH,,,1,1
 55,Martín Caraveo,,,1,
@@ -67,7 +67,7 @@ Num,Nombre,Dirección,Telefono,ocupado,Pagado
 65,Ilie Soto,,,1,0
 66,Ma. del Pilar Monsivais Alonso,,,1,1
 67,Carlos Armando de la Vega Cobos,,,1,1
-68,,,,0,
+68,Cobos,,,1,
 69,Margarita Guadalupe Arispuro Duarte,,,1,1
 70,Julio Robles UACH,,,1,
 71,,,,0,

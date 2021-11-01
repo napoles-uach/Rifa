@@ -25,7 +25,8 @@ disponible=df[df['ocupado']==0]
 
 st.write(disponible['Num'])
 sel_url='https://www.youtube.com/user/VideotecaLotenal/videos'
-components.iframe(sel_url,height=800,scrolling=True)
+st_player(sel_url)
+#components.iframe(sel_url,height=800,scrolling=True)
 
 st.sidebar.image('tablet.png')
 st.sidebar.markdown('''

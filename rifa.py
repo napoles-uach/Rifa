@@ -26,8 +26,7 @@ disponible=df[df['ocupado']==0]
 st.write(disponible['Num'])
 #sel_url='https://www.youtube.com/user/VideotecaLotenal/videos'
 
-st.markdown('# [Link al canal de Youtube de la Lotería Nacional](https://www.youtube.com/user/VideotecaLotenal/videos) Transmisión a las 20:00 Horas en Cd. de México')
-#components.iframe(sel_url,height=800,scrolling=True)
+st.image('sorteo.jpeg')
 
 st.sidebar.image('tablet.png')
 st.sidebar.markdown('''

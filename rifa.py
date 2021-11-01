@@ -13,8 +13,8 @@ df = pd.read_csv('https://raw.githubusercontent.com/napoles-uach/Rifa/main/Rifa_
 # you can modify it by double cliking on the folder icon at the left
 #st.dataframe(df)
 
-st.write('# Números disponibles:')
-disponible=df[df['ocupado']==0]
+st.write('# Números ganador: 89')
+#disponible=df[df['ocupado']==0]
 
 #numb=st.selectbox('Terminaciones disponibles',disponible)
 

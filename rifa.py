@@ -23,7 +23,7 @@ st.write('# Números ganador: 89')
 #if boton:
 #  st.balloons()
 
-st.write(disponible['Num'])
+#st.write(disponible['Num'])
 #sel_url='https://www.youtube.com/user/VideotecaLotenal/videos'
 
 st.image('sorteo.jpeg')

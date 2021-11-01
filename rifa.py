@@ -24,7 +24,7 @@ disponible=df[df['ocupado']==0]
 #  st.balloons()
 
 st.write(disponible['Num'])
-sel_url='https://www.youtube.com/user/VideotecaLotenal/videos'
+sel_url='https://www.youtube.com/watch?v=yHK5Vwt9P_Y' #'https://www.youtube.com/user/VideotecaLotenal/videos'
 st_player(sel_url)
 #components.iframe(sel_url,height=800,scrolling=True)
 
